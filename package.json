@@ -1,0 +1,18 @@
+{
+  "name": "dictator-c",
+  "version": "0.0.1",
+  "description": "Blah Blah Blah",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brettlangdon/v8type.git"
+  },
+  "keywords": [
+
+  ],
+  "author": "Ben Nelson <nelsonbenjaminj@gmail.com>",
+  "license": "MIT"
+}
